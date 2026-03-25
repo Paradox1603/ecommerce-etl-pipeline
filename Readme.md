@@ -82,7 +82,7 @@ The pipeline ensures data quality by:
 
 ## Project Structure
 ecommerce-etl/
-    main.py              # CLI entry point
+    main.py# CLI entry point
     pipeline.py          # ETL pipeline logic
     logger.py            # Logging configuration
     generate_data.py     # Script to generate sample data
